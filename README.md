@@ -22,7 +22,7 @@ What is the worst-case big $\Theta$ time complexity of your algorithm?
 ### Worst-Case Time Complexity: 
 - Loop runs $n$ iterations
   - each iteration involves a constant amount of work
-- **Time Complexity:** $\Theta(1)$
+- **Time Complexity:** $\Theta(n)$
 ### Space Complexity: 
 - only keeps track of a few variables
   - function uses constant amount of space
